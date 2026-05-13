@@ -1,0 +1,17 @@
+# Changelist
+- The changes are an attempt to balance the vore with the combat to give it a greater presense in the gameplay. 
+Allowing for more vore setups without taking too much away from the gameplay. 
+/!\ I can't add new model or animations yet. I can only modify what is available /!\
+
+## General Game Changes
+- Sprinting will not drain stamina (Eventually want to change it to just out of combat)
+- Enemys will be slightly more agressive with attack chains that will usually end in a grab move
+- For each enemy, one of the escape routes on will be consistent difficulty and unaffected by agression. Like a weakpoint. It will be unique for each enemy.
+
+## Enemy Changes
+### Yama
+- Most of Yama's attack chains will end in bite or sprint
+- Yama's sprint will now almost always lead to av grab
+- At higher agression bite can lead directly to walking belly
+- Drain can now be stopped by inputting correct struggle directions. This also lets you stop drain when stamina is set to infinite in sandbox mode.
+- In walking belly, Yama now only enters her den at very low agression. If higher agression, she continues to partol the area instead
