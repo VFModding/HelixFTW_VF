@@ -1,6 +1,8 @@
 # HelixFTW_VF Gameplay Mod
 Gameplay Mod for HelixFTW. Currently only Yama is adjusted.
+
 /!\ I will only provide files for the mod itself. Go to Alsnapz patreon for the full game. This mod is only compatible with the "Triple Update" free release for now. /!\
+
 ## Contents
 1. How to Install
 2. Changelist
